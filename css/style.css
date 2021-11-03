@@ -224,7 +224,11 @@ body{
 }
 
 #team i{
-    font-size: 30px;
+    font-size: 35px;
+}
+
+#team i:hover{
+    color: #d72323;
 }
 
 /* end team */
@@ -255,6 +259,11 @@ body{
 
 #work .arrows i{
     margin-right: 10px;
+    
+}
+
+#work .arrows i:hover{
+    color: #d72323;
 }
 /* end work */
  /* start testemonials  */
